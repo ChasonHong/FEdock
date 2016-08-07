@@ -16,7 +16,7 @@
 
 ## 方法一
 
-- Fork到自己仓库
+- [Fork](https://github.com/ChasonHong/FEdock/issues#fork-destination-box)到自己仓库
 - 修改根目录的`data.json`文件
 - `Pull requests` 给我 哈！哈！哈！
 
