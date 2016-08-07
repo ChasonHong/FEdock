@@ -52,7 +52,7 @@ sreach.prototype = {
             radius = 16;
 
         ctx.fillStyle = "rgba(255, 255, 255, 0.8)";
-        ctx.globalAlpha =0.2
+        ctx.globalAlpha =0.2;
         ctx.fillRect(0,0,w,h);
 
         var r = [0.25,1,1.75,2.15,3,5];
