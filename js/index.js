@@ -260,8 +260,8 @@ sreach.prototype = {
         )
         :self.creatListHTML();
         if(window.history&&window.history.pushState)
-            val ? history.pushState({},"jsdig","?kw="+val):
-                history.pushState({},"jsdig","/");
+            val ? history.pushState({},"fedocker","?kw="+val):
+                history.pushState({},"fedocker","/");
 
         self.isErrorInfo(val);
     },
