@@ -2,6 +2,15 @@
 
 弄个纯静态，便于维护的前端导航站。顺便放一些前端资源。
 
+## 分类搜索
+
+![FED](https://raw.githubusercontent.com/ChasonHong/FEdock/master/img/fed.gif)
+
+## 关键字搜索
+
+![FED](https://raw.githubusercontent.com/ChasonHong/FEdock/master/img/fed2.gif)
+
+
 ## 添加网站
 
 
