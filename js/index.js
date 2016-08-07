@@ -4,23 +4,23 @@ var sreach = function(){
     this.data = null;
     this.ulhtml = '<div class="title"> <h3>$icon$<a target="_blank" href="$url$">$name$</a></h3> </div> <div class="tags"> $tags$ </div> <div class="description"> <p class="des">$des$</p> </div>';
     this.boxEml = document.getElementById('list-itme');
-    this.inputElm = document.getElementById('search')
-    this.info = document.getElementById('info')
-    this.tagsEml = document.getElementById('tags')
-    this.error = document.getElementById('error')
-    this.loadingEml = document.getElementById("spinner")
-    this.btnPreviewEml = document.getElementById("preview")
+    this.inputElm = document.getElementById('search');
+    this.info = document.getElementById('info');
+    this.tagsEml = document.getElementById('tags');
+    this.error = document.getElementById('error');
+    this.loadingEml = document.getElementById("spinner");
+    this.btnPreviewEml = document.getElementById("preview");
     this.page_size = 70;
-    this.domainReg = /[a-zA-Z0-9]{0,62}.\/\/[a-zA-Z0-9][-a-zA-Z0-9]{0,62}(\.[a-zA-Z0-9][-a-zA-Z0-9]{0,62})+\.?/
-    this.page_no = 1,
+    this.domainReg = /[a-zA-Z0-9]{0,62}.\/\/[a-zA-Z0-9][-a-zA-Z0-9]{0,62}(\.[a-zA-Z0-9][-a-zA-Z0-9]{0,62})+\.?/;
+    this.page_no = 1;
     this.tags = [];
 
-    this.inputElm.focus()
+    this.inputElm.focus();
 
     if(this.boxEml){
         this.init();   
     }
-}
+};
 sreach.prototype = {
     // 搜索字符串里面是否存在关键字
     isSreachIndexOF:function(oldstr,kw){
@@ -117,7 +117,7 @@ sreach.prototype = {
             url:arr.url,
             des:des || '',
             icon:(function(){ 
-                var dm = self.domainReg.exec(arr.url);
+                var dm = self.domainReg.exec(arr.url); 
                 if(arr.icon){
                     return '<img src="'+arr.icon+'" />';
                 }else{
@@ -229,10 +229,10 @@ sreach.prototype = {
     },
     isErrorInfo:function(){
         var kw = this.getQueryString('kw');
-debugger;
+
         if(/^(:|：)/.test(kw)){
             this.tagsEml.className = 'show';
-            this.createTagsHTML(kw)
+            this.createTagsHTML(kw);
             return;
         }else{
             this.tagsEml.className = 'hide';
@@ -271,7 +271,7 @@ debugger;
     },
     init:function(){
         var self = this;
-        this.loadingEml.style.display = 'block'
+        this.loadingEml.style.display = 'block';
         this.loading();
         this.ajax('js/data.min.json',function(dt){
             self.loadingEml.style.display = 'none';
@@ -283,12 +283,12 @@ debugger;
             
             // 绑定输入事件
             self.bindEvent(self.inputElm,'input',function(e){
-                var val = e.target.value
+                var val = e.target.value;
                 self.changeKeyworlds(val);
-            })
+            });
             kw&&(self.inputElm.value=kw);
             self.valToHTML(kw);
-        })
+        });
         this.bindEvent(this.btnPreviewEml,'click',function(e){
             var cls = e.target.firstChild.className;
             if(cls === 'view-type-list'){
@@ -300,7 +300,7 @@ debugger;
             }
         })
     }
-}
+};
 
 
 new sreach();
