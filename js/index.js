@@ -10,7 +10,7 @@
         this.error = document.getElementById('error');
         this.loadingEml = document.getElementById("spinner");
         this.btnPreviewEml = document.getElementById("preview");
-        this.page_size = 70;
+        this.page_size = 77;
         this.domainReg = /[a-zA-Z0-9]{0,62}.\/\/[a-zA-Z0-9][-a-zA-Z0-9]{0,62}(\.[a-zA-Z0-9][-a-zA-Z0-9]{0,62})+\.?/;
         this.page_no = 1;
         this.tags = [];
