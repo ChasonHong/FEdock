@@ -1,4 +1,9 @@
 [{
+    "name":"掘金",
+    "url":"http://gold.xitu.io/",
+    "des":"掘金是中国质量最高的技术分享社区，邀请稀土用户作为 Co-Editor 来分享优质的技术干货，从前端到后端开发，从设计到产品，让每一个掘金用户都能挖掘到有价值的干货。",
+    "tags":["社区"]
+},{
     "name":"Mozilla 开发者网络",
     "url":"https://developer.mozilla.org/zh-CN/",
     "icon":"https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png",
@@ -46,16 +51,6 @@
     "des":"w3school 中文站的来源：THE WORLD'S LARGEST WEB DEVELOPER SITE",
     "tags":["教程","手册"]
 },{
-    "name":"前端De早读课,前端开发,前端资讯分享",
-    "url":"http://www.zaoduke.net/",
-    "des":"前端De早读课是专注分享前端开发、UI设计、产品设计，创业的资讯网站。",
-    "tags":["社区","新闻资讯"]
-},{
-    "name":"掘金",
-    "url":"http://gold.xitu.io/",
-    "des":"掘金是中国质量最高的技术分享社区，邀请稀土用户作为 Co-Editor 来分享优质的技术干货，从前端到后端开发，从设计到产品，让每一个掘金用户都能挖掘到有价值的干货。",
-    "tags":["社区"]
-},{
     "name":"前端乱炖",
     "url":"http://html-js.com/",
     "des":"前端乱炖，这里是最专业的前端知识平台，汇集国内大部分前端开发人员的前端花名册，最精彩的原创文章专栏，最专业的问答平台，最火热的话题频道，最丰富的线下线上活动。",
@@ -97,11 +92,6 @@
     "url":"http://validator.w3.org/",
     "icon":"http://www.w3.org/2008/site/images/favicon.ico",
     "des":"W3C在线检验",
-    "tags":["社区"]
-},{
-    "name":"Web App Trend",
-    "url":"http://www.webapptrend.com/",
-    "des":"关注跨平台开发以及Web App技术发展与实践",
     "tags":["社区"]
 },{
     "name":"F2E - 前端技术社区",
@@ -195,21 +185,6 @@
     "name":"天猫UED",
     "url":"http://ued.tmall.com/",
     "des":"天猫UED成员微博集合",
-    "tags":["团队","UED"]
-},{
-    "name":"搜狐MUED",
-    "url":"http://mued.sohu.com/",
-    "des":"搜狐无线UED团队",
-    "tags":["团队","UED"]
-},{
-    "name":"搜狐媒体设计中心",
-    "url":"http://mdc.sohu.com/",
-    "des":"搜狐MDC",
-    "tags":["团队"]
-},{
-    "name":"搜狐焦点UED",
-    "url":"http://ued.focus.cn/wordpress/",
-    "des":"搜狐焦点UED团队",
     "tags":["团队","UED"]
 },{
     "name":"搜狐畅游VC",
