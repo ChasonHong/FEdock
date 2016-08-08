@@ -16,7 +16,7 @@
 
 ## 方法一
 
-- Fork到自己仓库
+- Fork到自己的仓库
 - 修改根目录的`data.json`文件
 - `Pull requests` 给我 哈！哈！哈！
 
