@@ -78,6 +78,11 @@
     "des":"前端网（W3Cfuns），人气爆棚的知识分享专业社区，优秀WEB前端开发工程师聚集地，提供面向前端工程师综合性服务的一站式服务平台！前端未来，我们打造！",
     "tags":["社区"]
 },{
+    "name":"学习CSS布局",
+    "url":"http://zh.learnlayout.com/",
+    "des":"通过这个网站你能免费学会网站CSS布局",
+    "tags":["设计培训"]
+},{
     "name":"w3ctech",
     "url":"http://w3ctech.com/",
     "des":"web标准化交流会",
@@ -318,16 +323,6 @@
     "des":"引领中国交互设计行业发展",
     "tags":["UX"]
 },{
-    "name":"线框杂志",
-    "url":"http://wireframes.linowski.ca/",
-    "des":"丰富的线框知识与资源，UX必备",
-    "tags":["UX"]
-},{
-    "name":"Dryicons",
-    "url":"http://www.freeiconsdownload.com/",
-    "des":"按属性分类，国外免费图标下载",
-    "tags":["图标"]
-},{
     "name":"Evil Icons",
     "url":"http://evil-icons.io/",
     "des":"简单干净的SVG图标包的代码支持Rails, Sprockets, Node.js, Gulp, Grunt and CDN。",
@@ -387,11 +382,6 @@
     "name":"IOSIconGallery",
     "url":"http://iosicongallery.com/",
     "des":"收录了苹果客户端的所有的ios产品的图标",
-    "tags":["图标"]
-},{
-    "name":"Shapes4free",
-    "url":"http://www.shapes4free.com/",
-    "des":"提供了免费的photoshop自定义形状、图标",
     "tags":["图标"]
 },{
     "name":"WeLoveIcons",
@@ -637,11 +627,6 @@
     "des":"是用匿名函数的原生形式，解码则按照编码原理倒过来写个程序。其特点是由“[]，()，{}，+,！”组成的编码后的字符，这是一个JavaScript的绕过代码编码方式。",
     "tags":["工具"]
 },{
-    "name":"jsdo.it",
-    "url":"http://jsdo.it/",
-    "des":"jsdo.it是一个专为前端工程师打造的社区。无论你是网页设计师，网页重构师或是JavaScript工程师，都可以在这里使用我们的在线编辑器，编写并尝试运行代码。同时你也可以将代码保存在我们的服务器上，并向其他人公开展示你的作品。如果你对自己的代码技能没有自信也不必担心！通过在别人的代码的基础上加以修改，你就可以在最短的时间里学习到最前沿的技术。 ",
-    "tags":["社区"]
-},{
     "name":"ECMAScript 6入门",
     "url":"http://es6.ruanyifeng.com/",
     "des":"jsdo.it是一个专为前端工程师打造的社区。无论你是网页设计师，网页重构师或是JavaScript工程师，都可以在这里使用我们的在线编辑器，编写并尝试运行代码。同时你也可以将代码保存在我们的服务器上，并向其他人公开展示你的作品。如果你对自己的代码技能没有自信也不必担心！通过在别人的代码的基础上加以修改，你就可以在最短的时间里学习到最前沿的技术。 ",
@@ -655,11 +640,6 @@
     "name":"nipponcolors",
     "url":"nipponcolors",
     "des":"前端开发博客专注于前端开发,分享前端开发资源和前端开发技术资讯等",
-    "tags":["文档"]
-},{
-    "name":"Echo JS",
-    "url":"http://www.echojs.com/",
-    "des":"JavaScript 新闻",
     "tags":["文档"]
 },{
     "name":"JavaScript Event KeyCodes",
@@ -718,39 +698,9 @@
     "des":"",
     "tags":["博客"]
 },{
-    "name":"JavaScriptWeekly",
-    "des":"关于JavaScript新闻和文章的每周邮件聚合订阅",
-    "url":"http://javascriptweekly.com/",
-    "tags":["订阅/周刊"]
-},{
-    "name":"HTML5Weekly",
-    "des":"HTML5 周刊，关注最新动态",
-    "url":"http://html5weekly.com/",
-    "tags":["订阅/周刊"]
-},{
-    "name":"Node 周刊",
-    "des":"免费的，每周电子邮件推送Node.js的新闻和文章",
-    "url":"http://nodeweekly.com/",
-    "tags":["订阅/周刊"]
-},{
-    "name":"DB 周刊",
-    "des":"每周一轮数据库技术的新闻和文章覆盖的新发展，SQL，NoSQL，文档数据库、图形数据库，和更多的发现。",
-    "url":"http://dbweekly.com/",
-    "tags":["订阅/周刊"]
-},{
-    "name":"SidebarIO",
-    "des":"关于设计的The best design links, every day. 可以订阅daily, twice a week, weekly",
-    "url":"http://sidebar.io/",
-    "tags":["订阅/周刊"]
-},{
     "name":"奇舞团周刊",
     "des":"奇舞团的周刊，内容质量很高，比较精",
     "url":"http://www.75team.com/weekly/",
-    "tags":["订阅/周刊"]
-},{
-    "name":"码农周刊",
-    "des":"综合的码农相关文章，资料很多，覆盖面广",
-    "url":"http://weekly.manong.io/",
     "tags":["订阅/周刊"]
 },{
     "name":"OurJS周刊",
@@ -763,29 +713,14 @@
     "url":"http://fullweb.io/",
     "tags":["订阅/周刊"]
 },{
-    "name":"Fullweb周刊",
-    "des":"CSS的文章，教程，实验工具",
-    "url":"http://css-weekly.com/",
-    "tags":["订阅/周刊"]
-},{
     "name":"WebDesignWeekly",
     "des":"设计动向和经典作品，Web Design Weekly 一周一次没有垃圾周的邮件，没有杂乱。只是单纯的可怕的链接，在一周内网络出现最好的新闻和文章。",
     "url":"http://web-design-weekly.com/",
     "tags":["订阅/周刊"]
 },{
-    "name":"WebToolsWeekly",
-    "des":"最新的开发工具、插件组件等等",
-    "url":"http://webtoolsweekly.com/",
-    "tags":["订阅/周刊"]
-},{
     "name":"ResponsiveDesignWeekly",
     "des":"响应式设计动态、技巧等",
     "url":"http://responsivedesignweekly.com/",
-    "tags":["订阅/周刊"]
-},{
-    "name":"FeWeekly",
-    "des":"聚焦最新前端技术、框架、教程、工具、资讯和文章",
-    "url":"http://www.feweekly.com/",
     "tags":["订阅/周刊"]
 },{
     "name":"Normalize.css",
@@ -933,11 +868,6 @@
     "des":"EZoApp",
     "tags":["移动框架"]
 },{
-    "name":"应用家YYjiacms",
-    "url":"http://www.yyjia.com/",
-    "des":"App应用市场网站系统",
-    "tags":["移动框架"]
-},{
     "name":"codiqa",
     "url":"http://www.codiqa.com/",
     "des":"jquery mobile UI builder（jquery mobileUI编辑器）",
@@ -971,11 +901,6 @@
     "name":"网页模版巨人",
     "url":"http://store.templatemonster.com/?aff=uisdc",
     "des":"国际顶尖的网页模版库，借鉴和学习网页趋势的宝地",
-    "tags":["设计资源"]
-},{
-    "name":"FreebiesBooth",
-    "url":"http://freebiesbooth.com/",
-    "des":"PSD，免费web设计资源及分层PSD下载的干货铺子",
     "tags":["设计资源"]
 },{
     "name":"Brusheezy",
@@ -1268,84 +1193,9 @@
     "des":"一个集合iOS界面截图给设计者灵感的酷站",
     "tags":["界面设计"]
 },{
-    "name":"网页模版巨人",
-    "url":"http://store.templatemonster.com/?aff=uisdc",
-    "des":"著名的网页模版库，借鉴和学习网页趋势的宝地",
-    "tags":["网站模板"]
-},{
-    "name":"Entheos Templates",
-    "url":"http://templates.entheosweb.com/",
-    "des":"强大的模板库，包括最流行的响应式网页、HTML5酷站",
-    "tags":["网站模板"]
-},{
-    "name":"梦幻模板",
-    "url":"http://www.dreamtemplate.com/",
-    "des":"超过7000个梦幻般的网站模板及Flash模板下载",
-    "tags":["网站模板"]
-},{
-    "name":"网页模版世界",
-    "url":"http://www.templateworld.com/",
-    "des":"提供各种专业的网页开发模板，记得利用好左侧的分类",
-    "tags":["网站模板"]
-},{
-    "name":"4Templates",
-    "url":"http://www.4templates.com/website-templates/",
-    "des":"网页模版市集，挑那些贵的看，然后预览，然后...",
-    "tags":["网站模板"]
-},{
-    "name":"免费网站模板",
-    "url":"http://www.freewebsitetemplates.com/",
-    "des":"有几百个免费网站模板下载，可以挑着看看",
-    "tags":["网站模板"]
-},{
-    "name":"享誉全球的 WIX",
-    "url":"http://www.wix.com/",
-    "des":"超赞！该站全球排名378！可以帮你免费定制网站",
-    "tags":["网站模板"]
-},{
-    "name":"免费模版库",
-    "url":"http://www.freewebtemplates.com/",
-    "des":"历史悠久的老站点，1999年就致力于分享免费网站模版",
-    "tags":["网站模板"]
-},{
-    "name":"模版盒子",
-    "url":"http://www.templatesbox.com/",
-    "des":"提供免费的模版和Flash下载，分类详细",
-    "tags":["网站模板"]
-},{
-    "name":"Buy Templates",
-    "url":"http://www.buytemplates.net/products/search",
-    "des":"一个卖网页模版的站点，大家可预览手工下载",
-    "tags":["网站模板"]
-},{
-    "name":"ThemeForest",
-    "url":"http://themeforest.net/category/site-templates",
-    "des":"TF下的频道，业内最大的网站模板和CMS主题商城之一",
-    "tags":["网站模板"]
-},{
-    "name":"GavickPro",
-    "url":"http://www.gavick.com/",
-    "des":"惊人且美丽的Joomla模板和WordPress主题",
-    "tags":["网站模板"]
-},{
-    "name":"Awwwards",
-    "url":"http://www.awwwards.com/",
-    "des":"精挑细选世界各地的最佳网站！并对其打分颁奖",
-    "tags":["酷站推荐"]
-},{
-    "name":"CSS Winner",
-    "url":"http://www.csswinner.com/",
-    "des":"全球网页设计画廊，并对提交的佳作颁奖",
-    "tags":["酷站推荐"]
-},{
     "name":"日本 4db",
     "url":"http://4db.cc/",
     "des":"强烈推荐！搜集日本各行各业、各地区的优秀网站",
-    "tags":["酷站推荐"]
-},{
-    "name":"CSS Design Awards",
-    "url":"http://www.cssdesignawards.com/",
-    "des":"展示世界上最好的网站，激励全球网页设计师",
     "tags":["酷站推荐"]
 },{
     "name":"Muuuuu",
@@ -1633,29 +1483,9 @@
     "des":"网易旗下的摄影爱好者相片存储、作品展示社区",
     "tags":["摄影美图"]
 },{
-    "name":"新浪图片",
-    "url":"http://photo.sina.com.cn/",
-    "des":"有温度的视觉，摄影师成长平台，影像记录中国",
-    "tags":["摄影美图"]
-},{
     "name":"蜂鸟网",
     "url":"http://www.fengniao.com/",
     "des":"摄影爱好者分享摄影技巧和作品的中国影像门户",
-    "tags":["摄影美图"]
-},{
-    "name":"中国国家地理网",
-    "url":"http://www.dili360.com/",
-    "des":"最专业的深度旅游体验平台，最具特色的互动社区",
-    "tags":["摄影美图"]
-},{
-    "name":"时尚网",
-    "url":"http://www.trends.com.cn/",
-    "des":"美图看不完！高端时尚白领生活专属领地",
-    "tags":["摄影美图"]
-},{
-    "name":"网易图片",
-    "url":"http://news.163.com/photo",
-    "des":"网易新闻中心图片频道，24小时热图实时推送",
     "tags":["摄影美图"]
 },{
     "name":"Style-Arena",
@@ -1691,16 +1521,6 @@
     "name":"布卡漫画",
     "url":"http://www.ibuka.cn/",
     "des":"最受欢迎的手机看漫画应用！可直接应用里搜索",
-    "tags":["漫画插画"]
-},{
-    "name":"SAKIROO",
-    "url":"http://sakiroo.com/",
-    "des":"韩国插画设计网，人设为主",
-    "tags":["漫画插画"]
-},{
-    "name":"插画驿站",
-    "url":"http://www.illustrationserved.com/",
-    "des":"Behance旗下的插画网",
     "tags":["漫画插画"]
 },{
     "name":"Cool Vibe",
@@ -1928,16 +1748,6 @@
     "des":"40个国外同行总结的超人气设计工具",
     "tags":["神器"]
 },{
-    "name":"莱茵教育",
-    "url":"http://www.uidesign.cc/prospect/",
-    "des":"UI设计教育领导者，国内首家UI设计连锁教育机构",
-    "tags":["设计培训"]
-},{
-    "name":"全球教学网站集萃",
-    "url":"http://www.uisdc.com/web-design-learning-resources",
-    "des":"自给自足！学习网页设计必知的20个教学资源站",
-    "tags":["设计培训"]
-},{
     "name":"PS新手礼仪手册",
     "url":"http://hao.uisdc.com/ps/",
     "des":"网页设计师入门第一课！不可或缺的WEB设计课程",
@@ -1956,16 +1766,6 @@
     "name":"TutsPlus 网页教学视频",
     "url":"https://tutsplus.com/course/photoshop-techniques-for-web-designers/",
     "des":"视频教学，TutsPlus二级频道下的网页教学视频",
-    "tags":["设计培训"]
-},{
-    "name":"动效设计特训营",
-    "url":"http://xue.uisdc.com/motion/",
-    "des":"火热报名！优设官方开展的动效设计、UI视觉培训课程",
-    "tags":["设计培训"]
-},{
-    "name":"学习CSS布局",
-    "url":"http://zh.learnlayout.com/",
-    "des":"通过这个网站你能免费学会网站CSS布局",
     "tags":["设计培训"]
 },{
     "name":"Video2Brain",
@@ -2304,16 +2104,6 @@
     "name":"jekyll",
     "url":"http://jekyll.bootcss.com/",
     "des":"将纯文本转化为静态网站和博客",
-    "tags":["博客搭建"]
-},{
-    "name":"Tumblr",
-    "url":"https://www.tumblr.com/",
-    "des":"轻博客的祖师爷",
-    "tags":["博客搭建"]
-},{
-    "name":"Wordpress",
-    "url":"https://zh-cn.wordpress.com/",
-    "des":"这玩意古老到我都不想介绍鸟",
     "tags":["博客搭建"]
 },{
     "name":"LoadersCSS",
