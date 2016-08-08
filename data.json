@@ -46,11 +46,6 @@
     "des":"这是一个极好的网站，查询你使用的属性方法在浏览器中的兼容。",
     "tags":["工具","caniuse"]
 },{
-    "name":"W3school 英文网站",
-    "url":"http://www.w3schools.com/",
-    "des":"w3school 中文站的来源：THE WORLD'S LARGEST WEB DEVELOPER SITE",
-    "tags":["教程","手册"]
-},{
     "name":"前端乱炖",
     "url":"http://html-js.com/",
     "des":"前端乱炖，这里是最专业的前端知识平台，汇集国内大部分前端开发人员的前端花名册，最精彩的原创文章专栏，最专业的问答平台，最火热的话题频道，最丰富的线下线上活动。",
@@ -177,11 +172,6 @@
     "des":"央视网/中国网络电视台，指定设计开发团队  [ UE/UX 、UCD、IA、ID、HCI ] ",
     "tags":["团队","UED"]
 },{
-    "name":"人人FED",
-    "url":"http://fed.renren.com/",
-    "des":"人人网前端开发设计团队",
-    "tags":["团队","FED"]
-},{
     "name":"天猫UED",
     "url":"http://ued.tmall.com/",
     "des":"天猫UED成员微博集合",
@@ -191,11 +181,6 @@
     "url":"http://vc.changyou.com/",
     "des":"畅游视觉设计中心",
     "tags":["团队"]
-},{
-    "name":"搜狗UED",
-    "url":"http://ued.sogou.com/",
-    "des":"搜狗UED团队",
-    "tags":["团队","UED"]
 },{
     "name":"携程UED",
     "url":"http://ued.ctrip.com/blog/",
@@ -258,11 +243,6 @@
     "des":"百度搜索用户体验中心 ( Search UX )，由原百度“搜索业务用户体验部”、“商业产品用户体验部”合并而成。围绕百度最核心的搜索业务，为提高数以亿计用户的交互体验和商业伙伴服务品质而努力。并致力于创建搜索引擎的极致用户体验，及用户行为与商业环境的和谐之美。",
     "tags":["团队","UED"]
 },{
-    "name":"百度MUX",
-    "url":"http://mux.baidu.com/",
-    "des":"百度无线用户体验部",
-    "tags":["团队"]
-},{
     "name":"百度FEX",
     "url":"http://fex.baidu.com/",
     "des":"FEX做最专业的前端，百度前端研发部，百度前端团队Blog",
@@ -273,19 +253,9 @@
     "des":"网易用户体验设计中心",
     "tags":["团队"]
 },{
-    "name":"19楼UED",
-    "url":"http://blog.19ued.com/",
-    "des":"19楼UED",
-    "tags":["团队","UED"]
-},{
     "name":"腾讯CDC",
     "url":"http://cdc.tencent.com/",
     "des":"腾讯用户研究与体验设计中心",
-    "tags":["团队","腾讯"]
-},{
-    "name":"腾讯ISD",
-    "url":"http://isd.tencent.com/blog",
-    "des":"QQ空间、QQ会员、QQ秀、QQmusic、腾讯视频、拍拍、QQ商城等产品体验设计",
     "tags":["团队","腾讯"]
 },{
     "name":"腾讯ISUX",
@@ -308,16 +278,6 @@
     "des":"让生活支付更完美|TID-财付通设计中心",
     "tags":["团队","腾讯"]
 },{
-    "name":"迅雷CUED",
-    "url":"http://cued.xunlei.com/",
-    "des":"迅雷CUED",
-    "tags":["团队","UED"]
-},{
-    "name":"SixUX",
-    "url":"http://sixux.com/",
-    "des":"实录各类过场动画视频，直观的交互体验学习平台。",
-    "tags":["UX"]
-},{
     "name":"OneAPM Browser Insight",
     "url":"http://www.oneapm.com/bi/feature.html",
     "des":"基于真实用户的 Web 前端性能监控平台",
@@ -338,11 +298,6 @@
     "des":"一个免费为用户体验研究人员和专家提供问答服务的社区",
     "tags":["UX"]
 },{
-    "name":"UX Magazine",
-    "url":"http://uxmag.com/",
-    "des":"设计、技术、用户体验等最好最新思想的原创文章",
-    "tags":["UX"]
-},{
     "name":"UXbooth",
     "url":"http://www.uxbooth.com/",
     "des":"侧重用户体验、交互、可用性等内容",
@@ -353,11 +308,6 @@
     "des":"提供交互设计和开发的灵感、教程、资源等",
     "tags":["UX"]
 },{
-    "name":"UX杂志",
-    "url":"http://uxmag.com",
-    "des":"提供持续、丰富、权威的用户体验和相关领域的信息",
-    "tags":["UX"]
-},{
     "name":"WebPPD",
     "url":"http://www.webppd.com/",
     "des":"axure产品原型设计，务实产品经理基本功",
@@ -366,16 +316,6 @@
     "name":"交互设计专业委员会",
     "url":"http://ixdc.org/",
     "des":"引领中国交互设计行业发展",
-    "tags":["UX"]
-},{
-    "name":"深圳体验设计专业委员会",
-    "url":"http://www.uxdc.org/",
-    "des":"中国首个体验设计专业组织，倡导推广体验设计行业能力标准和业务流程，竭力促进体验设计与传统行业的对接，积极引领国内体验设计行业与国际接轨",
-    "tags":["UX"]
-},{
-    "name":"用户体验资讯网",
-    "url":"http://uxinfo.com/",
-    "des":"IXDC旗下资讯网，引领中国交互设计行业发展",
     "tags":["UX"]
 },{
     "name":"线框杂志",
@@ -395,6 +335,7 @@
 },{
     "name":"Easy Icon",
     "url":"http://www.easyicon.cn/",
+    "ico":"http://cdn-img.easyicon.net/favicon.ico",
     "des":"图标搜索引擎，支持中文检索",
     "tags":["图标"]
 },{
