@@ -80,6 +80,7 @@
 },{
     "name":"学习CSS布局",
     "url":"http://zh.learnlayout.com/",
+    "icon":"http://zh.learnlayout.com/images/logo.png",
     "des":"通过这个网站你能免费学会网站CSS布局",
     "tags":["设计培训"]
 },{
@@ -160,11 +161,6 @@
     "name":"5173UED",
     "url":"http://ued.5173.com/",
     "des":"5173用户体验设计团队",
-    "tags":["团队","UED"]
-},{
-    "name":"HiUED",
-    "url":"http://www.hiued.org/",
-    "des":"用户体验交流会",
     "tags":["团队","UED"]
 },{
     "name":"UCD大社区",
@@ -330,7 +326,7 @@
 },{
     "name":"Easy Icon",
     "url":"http://www.easyicon.cn/",
-    "ico":"http://cdn-img.easyicon.net/favicon.ico",
+    "icon":"http://cdn-img.easyicon.net/favicon.ico",
     "des":"图标搜索引擎，支持中文检索",
     "tags":["图标"]
 },{
@@ -366,6 +362,7 @@
 },{
     "name":"IconFinder",
     "url":"http://www.iconfinder.com/",
+    "icon":"https://cdn0.iconfinder.com/static/494de40e1f51c2cc63a17c5da53e22fb/assets/img/favicons/favicon-16x16.png",
     "des":"iconfinder图标搜索引擎",
     "tags":["图标"]
 },{
@@ -381,6 +378,7 @@
 },{
     "name":"IOSIconGallery",
     "url":"http://iosicongallery.com/",
+    "icon":"http://iosicongallery.com/shared/img/iosicongallery-favicon.ico",
     "des":"收录了苹果客户端的所有的ios产品的图标",
     "tags":["图标"]
 },{
