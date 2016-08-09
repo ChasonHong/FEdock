@@ -1,9 +1,4 @@
 [{
-    "name":"掘金",
-    "url":"http://gold.xitu.io/",
-    "des":"掘金是中国质量最高的技术分享社区，邀请稀土用户作为 Co-Editor 来分享优质的技术干货，从前端到后端开发，从设计到产品，让每一个掘金用户都能挖掘到有价值的干货。",
-    "tags":["社区"]
-},{
     "name":"Mozilla 开发者网络",
     "url":"https://developer.mozilla.org/zh-CN/",
     "icon":"https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png",
@@ -46,6 +41,21 @@
     "des":"这是一个极好的网站，查询你使用的属性方法在浏览器中的兼容。",
     "tags":["工具","caniuse"]
 },{
+    "name":"W3school 英文网站",
+    "url":"http://www.w3schools.com/",
+    "des":"w3school 中文站的来源：THE WORLD'S LARGEST WEB DEVELOPER SITE",
+    "tags":["教程","手册"]
+},{
+    "name":"前端De早读课,前端开发,前端资讯分享",
+    "url":"http://www.zaoduke.net/",
+    "des":"前端De早读课是专注分享前端开发、UI设计、产品设计，创业的资讯网站。",
+    "tags":["社区","新闻资讯"]
+},{
+    "name":"掘金",
+    "url":"http://gold.xitu.io/",
+    "des":"掘金是中国质量最高的技术分享社区，邀请稀土用户作为 Co-Editor 来分享优质的技术干货，从前端到后端开发，从设计到产品，让每一个掘金用户都能挖掘到有价值的干货。",
+    "tags":["社区"]
+},{
     "name":"前端乱炖",
     "url":"http://html-js.com/",
     "des":"前端乱炖，这里是最专业的前端知识平台，汇集国内大部分前端开发人员的前端花名册，最精彩的原创文章专栏，最专业的问答平台，最火热的话题频道，最丰富的线下线上活动。",
@@ -78,12 +88,6 @@
     "des":"前端网（W3Cfuns），人气爆棚的知识分享专业社区，优秀WEB前端开发工程师聚集地，提供面向前端工程师综合性服务的一站式服务平台！前端未来，我们打造！",
     "tags":["社区"]
 },{
-    "name":"学习CSS布局",
-    "url":"http://zh.learnlayout.com/",
-    "icon":"http://zh.learnlayout.com/images/logo.png",
-    "des":"通过这个网站你能免费学会网站CSS布局",
-    "tags":["设计培训"]
-},{
     "name":"w3ctech",
     "url":"http://w3ctech.com/",
     "des":"web标准化交流会",
@@ -93,6 +97,11 @@
     "url":"http://validator.w3.org/",
     "icon":"http://www.w3.org/2008/site/images/favicon.ico",
     "des":"W3C在线检验",
+    "tags":["社区"]
+},{
+    "name":"Web App Trend",
+    "url":"http://www.webapptrend.com/",
+    "des":"关注跨平台开发以及Web App技术发展与实践",
     "tags":["社区"]
 },{
     "name":"F2E - 前端技术社区",
@@ -163,6 +172,11 @@
     "des":"5173用户体验设计团队",
     "tags":["团队","UED"]
 },{
+    "name":"HiUED",
+    "url":"http://www.hiued.org/",
+    "des":"用户体验交流会",
+    "tags":["团队","UED"]
+},{
     "name":"UCD大社区",
     "url":"http://ucdchina.com/",
     "des":"以用户为中心的设计",
@@ -173,15 +187,40 @@
     "des":"央视网/中国网络电视台，指定设计开发团队  [ UE/UX 、UCD、IA、ID、HCI ] ",
     "tags":["团队","UED"]
 },{
+    "name":"人人FED",
+    "url":"http://fed.renren.com/",
+    "des":"人人网前端开发设计团队",
+    "tags":["团队","FED"]
+},{
     "name":"天猫UED",
     "url":"http://ued.tmall.com/",
     "des":"天猫UED成员微博集合",
+    "tags":["团队","UED"]
+},{
+    "name":"搜狐MUED",
+    "url":"http://mued.sohu.com/",
+    "des":"搜狐无线UED团队",
+    "tags":["团队","UED"]
+},{
+    "name":"搜狐媒体设计中心",
+    "url":"http://mdc.sohu.com/",
+    "des":"搜狐MDC",
+    "tags":["团队"]
+},{
+    "name":"搜狐焦点UED",
+    "url":"http://ued.focus.cn/wordpress/",
+    "des":"搜狐焦点UED团队",
     "tags":["团队","UED"]
 },{
     "name":"搜狐畅游VC",
     "url":"http://vc.changyou.com/",
     "des":"畅游视觉设计中心",
     "tags":["团队"]
+},{
+    "name":"搜狗UED",
+    "url":"http://ued.sogou.com/",
+    "des":"搜狗UED团队",
+    "tags":["团队","UED"]
 },{
     "name":"携程UED",
     "url":"http://ued.ctrip.com/blog/",
@@ -244,6 +283,11 @@
     "des":"百度搜索用户体验中心 ( Search UX )，由原百度“搜索业务用户体验部”、“商业产品用户体验部”合并而成。围绕百度最核心的搜索业务，为提高数以亿计用户的交互体验和商业伙伴服务品质而努力。并致力于创建搜索引擎的极致用户体验，及用户行为与商业环境的和谐之美。",
     "tags":["团队","UED"]
 },{
+    "name":"百度MUX",
+    "url":"http://mux.baidu.com/",
+    "des":"百度无线用户体验部",
+    "tags":["团队"]
+},{
     "name":"百度FEX",
     "url":"http://fex.baidu.com/",
     "des":"FEX做最专业的前端，百度前端研发部，百度前端团队Blog",
@@ -254,9 +298,19 @@
     "des":"网易用户体验设计中心",
     "tags":["团队"]
 },{
+    "name":"19楼UED",
+    "url":"http://blog.19ued.com/",
+    "des":"19楼UED",
+    "tags":["团队","UED"]
+},{
     "name":"腾讯CDC",
     "url":"http://cdc.tencent.com/",
     "des":"腾讯用户研究与体验设计中心",
+    "tags":["团队","腾讯"]
+},{
+    "name":"腾讯ISD",
+    "url":"http://isd.tencent.com/blog",
+    "des":"QQ空间、QQ会员、QQ秀、QQmusic、腾讯视频、拍拍、QQ商城等产品体验设计",
     "tags":["团队","腾讯"]
 },{
     "name":"腾讯ISUX",
@@ -279,6 +333,16 @@
     "des":"让生活支付更完美|TID-财付通设计中心",
     "tags":["团队","腾讯"]
 },{
+    "name":"迅雷CUED",
+    "url":"http://cued.xunlei.com/",
+    "des":"迅雷CUED",
+    "tags":["团队","UED"]
+},{
+    "name":"SixUX",
+    "url":"http://sixux.com/",
+    "des":"实录各类过场动画视频，直观的交互体验学习平台。",
+    "tags":["UX"]
+},{
     "name":"OneAPM Browser Insight",
     "url":"http://www.oneapm.com/bi/feature.html",
     "des":"基于真实用户的 Web 前端性能监控平台",
@@ -299,6 +363,11 @@
     "des":"一个免费为用户体验研究人员和专家提供问答服务的社区",
     "tags":["UX"]
 },{
+    "name":"UX Magazine",
+    "url":"http://uxmag.com/",
+    "des":"设计、技术、用户体验等最好最新思想的原创文章",
+    "tags":["UX"]
+},{
     "name":"UXbooth",
     "url":"http://www.uxbooth.com/",
     "des":"侧重用户体验、交互、可用性等内容",
@@ -307,6 +376,11 @@
     "name":"UXDE",
     "url":"http://www.uxde.net/",
     "des":"提供交互设计和开发的灵感、教程、资源等",
+    "tags":["UX"]
+},{
+    "name":"UX杂志",
+    "url":"http://uxmag.com",
+    "des":"提供持续、丰富、权威的用户体验和相关领域的信息",
     "tags":["UX"]
 },{
     "name":"WebPPD",
@@ -319,6 +393,26 @@
     "des":"引领中国交互设计行业发展",
     "tags":["UX"]
 },{
+    "name":"深圳体验设计专业委员会",
+    "url":"http://www.uxdc.org/",
+    "des":"中国首个体验设计专业组织，倡导推广体验设计行业能力标准和业务流程，竭力促进体验设计与传统行业的对接，积极引领国内体验设计行业与国际接轨",
+    "tags":["UX"]
+},{
+    "name":"用户体验资讯网",
+    "url":"http://uxinfo.com/",
+    "des":"IXDC旗下资讯网，引领中国交互设计行业发展",
+    "tags":["UX"]
+},{
+    "name":"线框杂志",
+    "url":"http://wireframes.linowski.ca/",
+    "des":"丰富的线框知识与资源，UX必备",
+    "tags":["UX"]
+},{
+    "name":"Dryicons",
+    "url":"http://www.freeiconsdownload.com/",
+    "des":"按属性分类，国外免费图标下载",
+    "tags":["图标"]
+},{
     "name":"Evil Icons",
     "url":"http://evil-icons.io/",
     "des":"简单干净的SVG图标包的代码支持Rails, Sprockets, Node.js, Gulp, Grunt and CDN。",
@@ -326,7 +420,6 @@
 },{
     "name":"Easy Icon",
     "url":"http://www.easyicon.cn/",
-    "icon":"http://cdn-img.easyicon.net/favicon.ico",
     "des":"图标搜索引擎，支持中文检索",
     "tags":["图标"]
 },{
@@ -362,7 +455,6 @@
 },{
     "name":"IconFinder",
     "url":"http://www.iconfinder.com/",
-    "icon":"https://cdn0.iconfinder.com/static/494de40e1f51c2cc63a17c5da53e22fb/assets/img/favicons/favicon-16x16.png",
     "des":"iconfinder图标搜索引擎",
     "tags":["图标"]
 },{
@@ -378,8 +470,17 @@
 },{
     "name":"IOSIconGallery",
     "url":"http://iosicongallery.com/",
-    "icon":"http://iosicongallery.com/shared/img/iosicongallery-favicon.ico",
     "des":"收录了苹果客户端的所有的ios产品的图标",
+    "tags":["图标"]
+},{
+    "name":"Shapes4free",
+    "url":"http://www.shapes4free.com/",
+    "des":"提供了免费的photoshop自定义形状、图标",
+    "tags":["图标"]
+},{
+    "name":"WeLoveIcons",
+    "url":"http://weloveicons.com/",
+    "des":"图标鉴赏",
     "tags":["图标"]
 },{
     "name":"一淘UX图标库",
@@ -481,6 +582,11 @@
     "url":"http://enable-cors.org",
     "des":"Enable cross-origin resource sharing",
     "tags":["工具","caniuse"]
+},{
+    "name":"openQ",
+    "url":"http://openq.cn/",
+    "des":"wanghui的博客",
+    "tags":["博客"]
 },{
     "name":"HTML5中文网",
     "url":"http://www.html5china.com/",
@@ -615,6 +721,11 @@
     "des":"是用匿名函数的原生形式，解码则按照编码原理倒过来写个程序。其特点是由“[]，()，{}，+,！”组成的编码后的字符，这是一个JavaScript的绕过代码编码方式。",
     "tags":["工具"]
 },{
+    "name":"jsdo.it",
+    "url":"http://jsdo.it/",
+    "des":"jsdo.it是一个专为前端工程师打造的社区。无论你是网页设计师，网页重构师或是JavaScript工程师，都可以在这里使用我们的在线编辑器，编写并尝试运行代码。同时你也可以将代码保存在我们的服务器上，并向其他人公开展示你的作品。如果你对自己的代码技能没有自信也不必担心！通过在别人的代码的基础上加以修改，你就可以在最短的时间里学习到最前沿的技术。 ",
+    "tags":["社区"]
+},{
     "name":"ECMAScript 6入门",
     "url":"http://es6.ruanyifeng.com/",
     "des":"jsdo.it是一个专为前端工程师打造的社区。无论你是网页设计师，网页重构师或是JavaScript工程师，都可以在这里使用我们的在线编辑器，编写并尝试运行代码。同时你也可以将代码保存在我们的服务器上，并向其他人公开展示你的作品。如果你对自己的代码技能没有自信也不必担心！通过在别人的代码的基础上加以修改，你就可以在最短的时间里学习到最前沿的技术。 ",
@@ -628,6 +739,11 @@
     "name":"nipponcolors",
     "url":"nipponcolors",
     "des":"前端开发博客专注于前端开发,分享前端开发资源和前端开发技术资讯等",
+    "tags":["文档"]
+},{
+    "name":"Echo JS",
+    "url":"http://www.echojs.com/",
+    "des":"JavaScript 新闻",
     "tags":["文档"]
 },{
     "name":"JavaScript Event KeyCodes",
@@ -686,9 +802,39 @@
     "des":"",
     "tags":["博客"]
 },{
+    "name":"JavaScriptWeekly",
+    "des":"关于JavaScript新闻和文章的每周邮件聚合订阅",
+    "url":"http://javascriptweekly.com/",
+    "tags":["订阅/周刊"]
+},{
+    "name":"HTML5Weekly",
+    "des":"HTML5 周刊，关注最新动态",
+    "url":"http://html5weekly.com/",
+    "tags":["订阅/周刊"]
+},{
+    "name":"Node 周刊",
+    "des":"免费的，每周电子邮件推送Node.js的新闻和文章",
+    "url":"http://nodeweekly.com/",
+    "tags":["订阅/周刊"]
+},{
+    "name":"DB 周刊",
+    "des":"每周一轮数据库技术的新闻和文章覆盖的新发展，SQL，NoSQL，文档数据库、图形数据库，和更多的发现。",
+    "url":"http://dbweekly.com/",
+    "tags":["订阅/周刊"]
+},{
+    "name":"SidebarIO",
+    "des":"关于设计的The best design links, every day. 可以订阅daily, twice a week, weekly",
+    "url":"http://sidebar.io/",
+    "tags":["订阅/周刊"]
+},{
     "name":"奇舞团周刊",
     "des":"奇舞团的周刊，内容质量很高，比较精",
     "url":"http://www.75team.com/weekly/",
+    "tags":["订阅/周刊"]
+},{
+    "name":"码农周刊",
+    "des":"综合的码农相关文章，资料很多，覆盖面广",
+    "url":"http://weekly.manong.io/",
     "tags":["订阅/周刊"]
 },{
     "name":"OurJS周刊",
@@ -701,14 +847,29 @@
     "url":"http://fullweb.io/",
     "tags":["订阅/周刊"]
 },{
+    "name":"Fullweb周刊",
+    "des":"CSS的文章，教程，实验工具",
+    "url":"http://css-weekly.com/",
+    "tags":["订阅/周刊"]
+},{
     "name":"WebDesignWeekly",
     "des":"设计动向和经典作品，Web Design Weekly 一周一次没有垃圾周的邮件，没有杂乱。只是单纯的可怕的链接，在一周内网络出现最好的新闻和文章。",
     "url":"http://web-design-weekly.com/",
     "tags":["订阅/周刊"]
 },{
+    "name":"WebToolsWeekly",
+    "des":"最新的开发工具、插件组件等等",
+    "url":"http://webtoolsweekly.com/",
+    "tags":["订阅/周刊"]
+},{
     "name":"ResponsiveDesignWeekly",
     "des":"响应式设计动态、技巧等",
     "url":"http://responsivedesignweekly.com/",
+    "tags":["订阅/周刊"]
+},{
+    "name":"FeWeekly",
+    "des":"聚焦最新前端技术、框架、教程、工具、资讯和文章",
+    "url":"http://www.feweekly.com/",
     "tags":["订阅/周刊"]
 },{
     "name":"Normalize.css",
@@ -791,6 +952,11 @@
     "des":"由腾讯AlloyTeam搜集和整理的CSS3动画库",
     "tags":["CSS资源","腾讯"]
 },{
+    "name":"ECD动画库",
+    "url":"http://ecd.tencent.com/css3/index.html",
+    "des":"由腾讯电商前端团队编写的CSS3动画库",
+    "tags":["CSS资源","腾讯"]
+},{
     "name":"css3please",
     "url":"http://css3please.com/",
     "des":"常用的CSS3具体代码参考",
@@ -851,6 +1017,11 @@
     "des":"EZoApp",
     "tags":["移动框架"]
 },{
+    "name":"应用家YYjiacms",
+    "url":"http://www.yyjia.com/",
+    "des":"App应用市场网站系统",
+    "tags":["移动框架"]
+},{
     "name":"codiqa",
     "url":"http://www.codiqa.com/",
     "des":"jquery mobile UI builder（jquery mobileUI编辑器）",
@@ -884,6 +1055,11 @@
     "name":"网页模版巨人",
     "url":"http://store.templatemonster.com/?aff=uisdc",
     "des":"国际顶尖的网页模版库，借鉴和学习网页趋势的宝地",
+    "tags":["设计资源"]
+},{
+    "name":"FreebiesBooth",
+    "url":"http://freebiesbooth.com/",
+    "des":"PSD，免费web设计资源及分层PSD下载的干货铺子",
     "tags":["设计资源"]
 },{
     "name":"Brusheezy",
@@ -989,6 +1165,11 @@
     "name":"Eput高品质图片",
     "url":"http://eput.com/editors",
     "des":"国内人气高品质图片分享与售卖平台，设计必备",
+    "tags":["高清图库"]
+},{
+    "name":"Niice",
+    "url":"https://niice.co/",
+    "des":"一款有品味的灵感搜索引擎！设计师必备",
     "tags":["高清图库"]
 },{
     "name":"百度以图搜图",
@@ -1171,9 +1352,84 @@
     "des":"一个集合iOS界面截图给设计者灵感的酷站",
     "tags":["界面设计"]
 },{
+    "name":"网页模版巨人",
+    "url":"http://store.templatemonster.com/?aff=uisdc",
+    "des":"著名的网页模版库，借鉴和学习网页趋势的宝地",
+    "tags":["网站模板"]
+},{
+    "name":"Entheos Templates",
+    "url":"http://templates.entheosweb.com/",
+    "des":"强大的模板库，包括最流行的响应式网页、HTML5酷站",
+    "tags":["网站模板"]
+},{
+    "name":"梦幻模板",
+    "url":"http://www.dreamtemplate.com/",
+    "des":"超过7000个梦幻般的网站模板及Flash模板下载",
+    "tags":["网站模板"]
+},{
+    "name":"网页模版世界",
+    "url":"http://www.templateworld.com/",
+    "des":"提供各种专业的网页开发模板，记得利用好左侧的分类",
+    "tags":["网站模板"]
+},{
+    "name":"4Templates",
+    "url":"http://www.4templates.com/website-templates/",
+    "des":"网页模版市集，挑那些贵的看，然后预览，然后...",
+    "tags":["网站模板"]
+},{
+    "name":"免费网站模板",
+    "url":"http://www.freewebsitetemplates.com/",
+    "des":"有几百个免费网站模板下载，可以挑着看看",
+    "tags":["网站模板"]
+},{
+    "name":"享誉全球的 WIX",
+    "url":"http://www.wix.com/",
+    "des":"超赞！该站全球排名378！可以帮你免费定制网站",
+    "tags":["网站模板"]
+},{
+    "name":"免费模版库",
+    "url":"http://www.freewebtemplates.com/",
+    "des":"历史悠久的老站点，1999年就致力于分享免费网站模版",
+    "tags":["网站模板"]
+},{
+    "name":"模版盒子",
+    "url":"http://www.templatesbox.com/",
+    "des":"提供免费的模版和Flash下载，分类详细",
+    "tags":["网站模板"]
+},{
+    "name":"Buy Templates",
+    "url":"http://www.buytemplates.net/products/search",
+    "des":"一个卖网页模版的站点，大家可预览手工下载",
+    "tags":["网站模板"]
+},{
+    "name":"ThemeForest",
+    "url":"http://themeforest.net/category/site-templates",
+    "des":"TF下的频道，业内最大的网站模板和CMS主题商城之一",
+    "tags":["网站模板"]
+},{
+    "name":"GavickPro",
+    "url":"http://www.gavick.com/",
+    "des":"惊人且美丽的Joomla模板和WordPress主题",
+    "tags":["网站模板"]
+},{
+    "name":"Awwwards",
+    "url":"http://www.awwwards.com/",
+    "des":"精挑细选世界各地的最佳网站！并对其打分颁奖",
+    "tags":["酷站推荐"]
+},{
+    "name":"CSS Winner",
+    "url":"http://www.csswinner.com/",
+    "des":"全球网页设计画廊，并对提交的佳作颁奖",
+    "tags":["酷站推荐"]
+},{
     "name":"日本 4db",
     "url":"http://4db.cc/",
     "des":"强烈推荐！搜集日本各行各业、各地区的优秀网站",
+    "tags":["酷站推荐"]
+},{
+    "name":"CSS Design Awards",
+    "url":"http://www.cssdesignawards.com/",
+    "des":"展示世界上最好的网站，激励全球网页设计师",
     "tags":["酷站推荐"]
 },{
     "name":"Muuuuu",
@@ -1224,6 +1480,26 @@
     "name":"Baubauhaus",
     "url":"http://www.baubauhaus.com/",
     "des":"提供设计灵感、插画摄影、时尚以及艺术相关的一切",
+    "tags":["灵感创意"]
+},{
+    "name":"花瓣",
+    "url":"http://huaban.com/design/?md=uisdc.com",
+    "des":"采集你喜欢的美好事物，发现新知，启发设计灵感",
+    "tags":["灵感创意"]
+},{
+    "name":"9GAG",
+    "url":"http://9gag.com/",
+    "des":"可能是全球最搞笑的趣图网站，笑可以带来更多灵感",
+    "tags":["灵感创意"]
+},{
+    "name":"幻觉",
+    "url":"http://illusion.scene360.com/",
+    "des":"展示最惊人的创作，涵盖艺术、设计、摄影和视频",
+    "tags":["灵感创意"]
+},{
+    "name":"BOOOOOOOM",
+    "url":"http://www.booooooom.com/",
+    "des":"发人深省的创意图片，博客设计简约但内容丰富",
     "tags":["灵感创意"]
 },{
     "name":"灵感网络",
@@ -1441,9 +1717,29 @@
     "des":"网易旗下的摄影爱好者相片存储、作品展示社区",
     "tags":["摄影美图"]
 },{
+    "name":"新浪图片",
+    "url":"http://photo.sina.com.cn/",
+    "des":"有温度的视觉，摄影师成长平台，影像记录中国",
+    "tags":["摄影美图"]
+},{
     "name":"蜂鸟网",
     "url":"http://www.fengniao.com/",
     "des":"摄影爱好者分享摄影技巧和作品的中国影像门户",
+    "tags":["摄影美图"]
+},{
+    "name":"中国国家地理网",
+    "url":"http://www.dili360.com/",
+    "des":"最专业的深度旅游体验平台，最具特色的互动社区",
+    "tags":["摄影美图"]
+},{
+    "name":"时尚网",
+    "url":"http://www.trends.com.cn/",
+    "des":"美图看不完！高端时尚白领生活专属领地",
+    "tags":["摄影美图"]
+},{
+    "name":"网易图片",
+    "url":"http://news.163.com/photo",
+    "des":"网易新闻中心图片频道，24小时热图实时推送",
     "tags":["摄影美图"]
 },{
     "name":"Style-Arena",
@@ -1479,6 +1775,16 @@
     "name":"布卡漫画",
     "url":"http://www.ibuka.cn/",
     "des":"最受欢迎的手机看漫画应用！可直接应用里搜索",
+    "tags":["漫画插画"]
+},{
+    "name":"SAKIROO",
+    "url":"http://sakiroo.com/",
+    "des":"韩国插画设计网，人设为主",
+    "tags":["漫画插画"]
+},{
+    "name":"插画驿站",
+    "url":"http://www.illustrationserved.com/",
+    "des":"Behance旗下的插画网",
     "tags":["漫画插画"]
 },{
     "name":"Cool Vibe",
@@ -1606,9 +1912,24 @@
     "des":"世界上最大的市场传播机构之一",
     "tags":["设计公司"]
 },{
+    "name":"eico design",
+    "url":"http://www.eicodesign.com/index",
+    "des":"成立于2004年，国内最早的专业界面设计团队",
+    "tags":["设计公司"]
+},{
     "name":"ala",
     "url":"http://ala.ch/",
     "des":"创于1999，你可以在他们这看到流行设计趋势",
+    "tags":["设计公司"]
+},{
+    "name":"45royale",
+    "url":"http://45royale.com/",
+    "des":"创建于2006年，极具人气的设计团队，作品干净、优雅",
+    "tags":["设计公司"]
+},{
+    "name":"TG-vision 双晖传媒",
+    "url":"http://www.tg-vision.com/",
+    "des":"成立于2006年，专业用户体验设计团队",
     "tags":["设计公司"]
 },{
     "name":"NiceDesign",
@@ -1691,6 +2012,16 @@
     "des":"40个国外同行总结的超人气设计工具",
     "tags":["神器"]
 },{
+    "name":"莱茵教育",
+    "url":"http://www.uidesign.cc/prospect/",
+    "des":"UI设计教育领导者，国内首家UI设计连锁教育机构",
+    "tags":["设计培训"]
+},{
+    "name":"全球教学网站集萃",
+    "url":"http://www.uisdc.com/web-design-learning-resources",
+    "des":"自给自足！学习网页设计必知的20个教学资源站",
+    "tags":["设计培训"]
+},{
     "name":"PS新手礼仪手册",
     "url":"http://hao.uisdc.com/ps/",
     "des":"网页设计师入门第一课！不可或缺的WEB设计课程",
@@ -1709,6 +2040,16 @@
     "name":"TutsPlus 网页教学视频",
     "url":"https://tutsplus.com/course/photoshop-techniques-for-web-designers/",
     "des":"视频教学，TutsPlus二级频道下的网页教学视频",
+    "tags":["设计培训"]
+},{
+    "name":"动效设计特训营",
+    "url":"http://xue.uisdc.com/motion/",
+    "des":"火热报名！优设官方开展的动效设计、UI视觉培训课程",
+    "tags":["设计培训"]
+},{
+    "name":"学习CSS布局",
+    "url":"http://zh.learnlayout.com/",
+    "des":"通过这个网站你能免费学会网站CSS布局",
     "tags":["设计培训"]
 },{
     "name":"Video2Brain",
@@ -1989,6 +2330,11 @@
     "des":"The de-facto solution to flexible routing with nested views in AngularJS",
     "tags":["工具"]
 },{
+    "url":"http://ireact.cn/",
+    "name":"iReact",
+    "des":"采集react组件的网站。",
+    "tags":["工具","react"]
+},{
     "url":"http://facebook.github.io/immutable-js/",
     "name":"immutable-js",
     "des":"Immutable persistent data collections for Javascript which increase efficiency and simplicity.",
@@ -2042,6 +2388,16 @@
     "name":"jekyll",
     "url":"http://jekyll.bootcss.com/",
     "des":"将纯文本转化为静态网站和博客",
+    "tags":["博客搭建"]
+},{
+    "name":"Tumblr",
+    "url":"https://www.tumblr.com/",
+    "des":"轻博客的祖师爷",
+    "tags":["博客搭建"]
+},{
+    "name":"Wordpress",
+    "url":"https://zh-cn.wordpress.com/",
+    "des":"这玩意古老到我都不想介绍鸟",
     "tags":["博客搭建"]
 },{
     "name":"LoadersCSS",
@@ -2119,6 +2475,11 @@
     "des":"查看npm包或者用的数据统计。",
     "tags":["npm"]
 },{
+    "name":"朱英达的个人博客",
+    "url":"https://www.zhuyingda.com/",
+    "des":"技术博客，有关web的安全问题和性能问题" ,
+    "tags":["技术","博客","安全"]
+},{
     "name":"WEB骇客 - HTML5, CSS3, WEB前端开发技术",
     "url":"http://www.webhek.com/",
     "des":"关注HTML5、CSS3等浏览器前端技术，包括各种HTML5、CSS3资料，HTML5、CSS3网站、HTML5、CSS3资讯、HTML5、CSS3应用、HTML5、CSS3游戏、HTML5、CSS3教程、HTML5、CSS3视频、HTML5、CSS3论坛等。" ,
@@ -2159,6 +2520,17 @@
     "url":"http://www.swiper.com.cn/",
     "des":"Swiper(Swiper master)是目前应用较广泛的移动端网页触摸内容滑动js插件。Swiper中文网提供Swiper在线演示、Swiper中文教程、Swiper中文APi、Swiper下载。",
     "tags":["触摸","Swiper","触屏","移动框架","3D切换"]
+},{
+    "name":"赵鹏博客-干货集中营",
+    "url":"http://zhaopeng.me/",
+    "ico":"http://zhaopengblog.u.qiniudn.com/wp-content/uploads/2016/03/cropped-logo1-32x32.png",
+    "des":"干货聚集地.技术干货,软件干货,分享最实用的各种干货!" ,
+    "tags":["技术","干货","干货","博客"]
+},{
+    "name": "COLORFUL - 有个骚年路过这里",
+    "url": "http://xiaoa.name/",
+    "des": "Colorful，一个骚年路过这里，与你一起探讨关于前端技术，设计，Hack的奥秘。" ,
+    "tags": ["js", "node", "前端开发","博客"]
 },{
     "name": "stylus",
     "url": "http://stylus-lang.com/",
@@ -2216,6 +2588,11 @@
     "url":"http://yufe.org/",
     "des":"重庆前端交流大会，各路前端大咖为大家带来一场前端学习盛筵，让你的前端职业生涯有“前”更有“钱”！ 重庆前端，雄起！",
     "tags":["分享会", "会议", "前端社区"]
+},{
+    "name":"欧雷流",
+    "url":"https://ourai.ws/",
+    "des":"我叫欧雷，英文名 Ourai Lin，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。",
+    "tags":["博客"]
 },{
     "name":"阿城的blog",
     "url":"http://qiutc.me/",
