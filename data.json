@@ -131,15 +131,93 @@
     "des":"前端学习资源",
     "tags":["博客"]
 },{
+    "name":"jQuery API 中文在线手册",
+    "url":"http://jquery.cuishifeng.cn/",
+    "des":"jQuery API 1.12.0 中文在线版，jQuery API CHM 下载，jQuery API 中文最新版，jQuery 是一个兼容多浏览器的 JavasSript 框架，核心理念是 - write less, do more。jQuery API 中文文档(适用jQuery 1.0 - jQuery 2.0).",
+    "tags":["工具","手册"]
+},{
+    "name":"jQuery官网",
+    "url":"http://api.jquery.com/",
+    "des":"JQuery是继prototype之后又一个优秀的Javascript库。它是轻量级的js库 ，它兼容CSS3，还兼容各种浏览器（IE 6.0+, FF 1.5+, Safari 2.0+, Opera 9.0+），jQuery2.0及后续版本将不再支持IE6/7/8浏览器。",
+    "tags":["工具","官网","手册"]
+},{
     "name":"FilterFactory",
     "url":"http://filterfactory.mobi/",
     "des":"FilterFactory是一款将图片转换成SVG的在线生成工具。" ,
     "tags":["工具","tool","格式转换","SVG","辅助工具","便捷工具"]
 },{
+    "name":"JSLint",
+    "url":"http://jslint.com/",
+    "ico":"http://easings.net/favicon.png",
+    "des":"在线JS校验工具",
+    "tags":["工具"]
+},{
+    "name":"JSHint",
+    "url":"http://jshint.com/",
+    "des":"JSHint是一个JavaScript的代码质量检查工具，主要用来检查代码质量以及找出一些潜在的代码缺陷。",
+    "tags":["工具"]
+},{
+    "name":"CSSLint",
+    "url":"http://csslint.net/",
+    "des":"CSSLint 是一个用来帮你找出 CSS 代码中问题的工具，它可做基本的语法检查以及使用一套预设的规则来检查代码中的问题，规则是可以扩展的。",
+    "tags":["工具"]
+},{
     "name":"浏览器市场份额 - 百度统计",
     "url":"http://tongji.baidu.com/data/browser",
     "des":"百度统计流量研究院",
     "tags":["工具","统计"]
+},{
+    "name":"RegExr",
+    "url":"http://regexr.com/",
+    "des":"一个用Flex写的在线测试正则的工具",
+    "tags":["工具","正则"]
+},{
+    "name":"RegExr",
+    "url":"http://www.regexpal.com/",
+    "des":"一个用JS写的在线正则测试工具",
+    "tags":["工具","正则"]
+},{
+    "name":"缓动函数速查表",
+    "url":"http://easings.net/zh-cn",
+    "ico":"http://easings.net/favicon.png",
+    "des":"缓动函数允许指定动画在执行时的进度，使其看起来更加真实。现实物体照着一定速率移动，并不是一开始就移动得很快。本页可以在每次你需要时，帮助你找到想要的缓动函数。",
+    "tags":["工具","动画"]
+},{
+    "name":"JavaScript Event KeyCodes",
+    "url":"http://keycode.info/",
+    "icon":"",
+    "des":"在线Keycode查询",
+    "tags":["工具"]
+},{
+    "name":"Normalize.css",
+    "url":"http://necolas.github.io/normalize.css/",
+    "des":"Normalize是一个相对平和的css reset方案，注重通用的方案，保留有用的user agent 样式",
+    "tags":["CSS"]
+},{
+    "name":"浏览器hack大全",
+    "url":"http://browserhacks.com/",
+    "des":"",
+    "tags":["CSS资源"]
+},{
+    "name":"cssValues",
+    "url":"http://cssvalues.com/",
+    "des":"CSS属性查询，可查到对应W3C规范",
+    "tags":["CSS资源"]
+},{
+    "name":"CSS3lib动画库",
+    "url":"http://css3lib.alloyteam.com/",
+    "des":"由腾讯AlloyTeam搜集和整理的CSS3动画库",
+    "tags":["CSS资源","腾讯"]
+},{
+    "name":"css3ClickChart",
+    "url":"http://css3clickchart.com/",
+    "des":"可以查询到目前CSS3草案部分的相关属性",
+    "tags":["CSS资源"]
+},{
+    "name":"ECMAScript 6入门",
+    "url":"http://es6.ruanyifeng.com/",
+    "des":"jsdo.it是一个专为前端工程师打造的社区。无论你是网页设计师，网页重构师或是JavaScript工程师，都可以在这里使用我们的在线编辑器，编写并尝试运行代码。同时你也可以将代码保存在我们的服务器上，并向其他人公开展示你的作品。如果你对自己的代码技能没有自信也不必担心！通过在别人的代码的基础上加以修改，你就可以在最短的时间里学习到最前沿的技术。 ",
+    "tags":["文档"]
 },{
     "name":"慕课网",
     "url":"http://www.imooc.com",
@@ -190,5 +268,15 @@
     "url":"http://iconfont.cn/",
     "des":"Iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具",
     "tags":["图标"]
+},{
+    "name":"网页模版巨人",
+    "url":"http://store.templatemonster.com/?aff=uisdc",
+    "des":"著名的网页模版库，借鉴和学习网页趋势的宝地",
+    "tags":["网站模板"]
+},{
+    "name":"享誉全球的 WIX",
+    "url":"http://www.wix.com/",
+    "des":"超赞！该站全球排名378！可以帮你免费定制网站",
+    "tags":["网站模板"]
 }]
 
