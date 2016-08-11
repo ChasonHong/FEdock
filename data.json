@@ -15,20 +15,16 @@
     "icon":"https://sf-static.b0.upaiyun.com/v-56f75f77/global/img/touch-icon.png",
     "tags":["社区"]
 },{
+    "name":"Stack Overflow",
+    "url":"http://stackoverflow.com/",
+    "icon":"http://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded&a",
+    "des":"一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。",
+    "tags":["社区"]
+},{
     "name":"Div.IO",
     "url":"http://div.io/",
     "des":"高质量前端资源汇聚",
     "tags":["社区"]
-},{
-    "name":"CodePen代码笔",
-    "url":"http://codepen.io/",
-    "des":"前端工程师必备的技术网站，直接在显示编辑代码片段并分享。codepen！寻找交互灵感的圣地",
-    "tags":["工具","互交设计","在线编辑器"]
-},{
-    "name":"RunJS - 在线编辑、展示、分享、交流你的 JavaScript 代码",
-    "url":"http://runjs.cn/",
-    "des":"RunJS,在线编写、展示html、js、css代码，拥有实时预览、分享、Fork、代码高亮、自动完成等多项特性，提供文件上传、多种登录方式。",
-    "tags":["社区","工具","互交设计","在线编辑器"]
 },{
     "name":"React 中文",
     "url":"http://react-china.org/",
@@ -39,11 +35,6 @@
     "url":"http://reactnative.cn/",
     "des":"React Native中文网是中国最大的React Native开发者交流学习平台,致力于打造React Native开发。在这里能轻松找到代码实例,项目案例,并有专人提供最新文档翻译。",
     "tags":["社区"]
-},{
-    "name":"plainJS - The Vanilla JavaScript Repository",
-    "url":"https://plainjs.com/",
-    "des":"该仓库都是用原生js写的插件和组件，很实用",
-    "tags":["工具","插件","组件"]
 },{
     "name":"前端收藏夹",
     "url":"http://collect.w3ctrain.com/",
@@ -60,6 +51,37 @@
     "name":"WEB前端博客",
     "url":"http://caibaojian.com/",
     "des":"前端开发博客专注于前端开发,分享前端开发资源和前端开发技术资讯等",
+    "tags":["社区"]
+},{
+    "name":"前端De早读课,前端开发,前端资讯分享",
+    "url":"http://www.zaoduke.net/",
+    "des":"前端De早读课是专注分享前端开发、UI设计、产品设计，创业的资讯网站。",
+    "tags":["社区","新闻资讯"]
+},{
+    "name":"前端乱炖",
+    "url":"http://html-js.com/",
+    "des":"前端乱炖，这里是最专业的前端知识平台，汇集国内大部分前端开发人员的前端花名册，最精彩的原创文章专栏，最专业的问答平台，最火热的话题频道，最丰富的线下线上活动。",
+    "tags":["社区"]
+},{
+    "name":"Taobao FED | 淘宝前端团队",
+    "url":"http://taobaofed.org/",
+    "des":"淘宝前端团队（FED）用技术为体验提供无限可能",
+    "tags":["FED","阿里","淘宝","团队"]
+},{
+    "name":"w3cplus",
+    "url":"http://www.w3cplus.com/",
+    "icon":"http://cdn1.w3cplus.com/cdn/farfuture/6I7SmeJ6bvYzRevkkH6pjf9WnDTRa7YEBbsCyi6dPro/mtime:1414079820/sites/all/themes/w3cplusV2/favicon.ico",
+    "des":"w3cplus提供了大量的css,css3,sass,responsive,mobile等最新前端技术文章、demo及下载资源，以一起学习进步，共同分享为原则，为打造优秀的前端学习教程而努力。",
+    "tags":["社区"]
+},{
+    "name":"前端网（W3Cfuns）",
+    "url":"http://www.w3cfuns.com/",
+    "des":"前端网（W3Cfuns），人气爆棚的知识分享专业社区，优秀WEB前端开发工程师聚集地，提供面向前端工程师综合性服务的一站式服务平台！前端未来，我们打造！",
+    "tags":["社区"]
+},{
+    "name":"前端开发css88",
+    "url":"http://www.css88.com/",
+    "des":"专注前端开发，关注用户体验",
     "tags":["社区"]
 },{
     "name":"Can I use",
@@ -114,6 +136,16 @@
     "des":"FilterFactory是一款将图片转换成SVG的在线生成工具。" ,
     "tags":["工具","tool","格式转换","SVG","辅助工具","便捷工具"]
 },{
+    "name":"浏览器市场份额 - 百度统计",
+    "url":"http://tongji.baidu.com/data/browser",
+    "des":"百度统计流量研究院",
+    "tags":["工具","统计"]
+},{
+    "name":"慕课网",
+    "url":"http://www.imooc.com",
+    "des":"学习编程最简单的免费平台，慕课网提供了丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源。",
+    "tags":["编程","视频"]
+},{
     "name":"汇智网",
     "url":"http://www.hubwiz.com/",
     "des":"一家免费的在线互动式编程网站" ,
@@ -124,9 +156,39 @@
     "des":"免费IT职业在线教育平台,拥有海量高清IT职业课程,涵盖30+个技术领域,如Android,iOS,Java,HTML5,PHP,THINKPHP,JAVASCRIPT,APPCAN,APICOULD" ,
     "tags":["编程","视频"]
 },{
+    "name":"CodePen代码笔",
+    "url":"http://codepen.io/",
+    "des":"前端工程师必备的技术网站，直接在显示编辑代码片段并分享。codepen！寻找交互灵感的圣地",
+    "tags":["工具","互交设计","在线编辑器"]
+},{
+    "name":"RunJS - 在线编辑、展示、分享、交流你的 JavaScript 代码",
+    "url":"http://runjs.cn/",
+    "des":"RunJS,在线编写、展示html、js、css代码，拥有实时预览、分享、Fork、代码高亮、自动完成等多项特性，提供文件上传、多种登录方式。",
+    "tags":["社区","工具","互交设计","在线编辑器"]
+},{
+    "name":"JS Bin",
+    "url":"http://jsbin.com/",
+    "des":"前端工程师必备的技术网站，直接在显示编辑代码片段样本并分享。",
+    "tags":["工具","在线编辑器"]
+},{
+    "name":"JSFiddle",
+    "url":"http://jsfiddle.net/",
+    "des":"测试你的JavaScript，CSS，HTML或CoffeeScript的在线代码编辑器JSFiddle。",
+    "tags":["工具","在线编辑器"]
+},{
     "name":"tinypng",
     "url":"https://tinypng.com/",
     "des":"TinyPNG使用一种智能有损压缩技术（通过降低图片中的颜色数量，来减少存储图片所需要的数据）来降低PNG 图片的大小",
     "tags":["CSS3","CSS3在线生成"]
+},{
+    "name":"Evil Icons",
+    "url":"http://evil-icons.io/",
+    "des":"简单干净的SVG图标包的代码支持Rails, Sprockets, Node.js, Gulp, Grunt and CDN。",
+    "tags":["图标"]
+},{
+    "name":"Iconfont-阿里巴巴矢量图标库",
+    "url":"http://iconfont.cn/",
+    "des":"Iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具",
+    "tags":["图标"]
 }]
 
