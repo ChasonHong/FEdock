@@ -4,6 +4,16 @@
     "des":"免费开源的高质量前端库、框架和插件",
     "tags":["社区"]
 },{
+    "name":"Gitlab",
+    "url":"https://about.gitlab.com/",
+    "des":"GitLab 是一个用于仓库管理系统的开源项目。使用Git作为代码管理工具，并在此基础上搭建起来的web服务。",
+    "tags":["git","代码托管"]
+},{
+    "name":"gogs",
+    "url":"https://gogs.io/",
+    "des":"Gogs 的目标是打造一个最简单、最快速和最轻松的方式搭建自助 Git 服务。使用 Go 语言开发使得 Gogs 能够通过独立的二进制分发，并且支持 Go 语言支持的 所有平台，包括 Linux、Mac OS X、Windows 以及 ARM 平台。",
+    "tags":["git","代码托管"]
+},{
     "name":"掘金",
     "url":"http://gold.xitu.io/",
     "des":"掘金是中国质量最高的技术分享社区，邀请稀土用户作为 Co-Editor 来分享优质的技术干货，从前端到后端开发，从设计到产品，让每一个掘金用户都能挖掘到有价值的干货。",
@@ -31,10 +41,98 @@
     "des":"React 中文的论坛",
     "tags":["社区"]
 },{
+    "url":"http://cn.redux.js.org/index.html",
+    "name":"redux中文文档",
+    "des":"Redux 是 JavaScript 状态容器，提供可预测化的状态管理。",
+    "tags":["工具"]
+},{
     "name":"react native 中文网",
     "url":"http://reactnative.cn/",
     "des":"React Native中文网是中国最大的React Native开发者交流学习平台,致力于打造React Native开发。在这里能轻松找到代码实例,项目案例,并有专人提供最新文档翻译。",
     "tags":["社区"]
+},{
+    "url":"https://webpack.github.io/",
+    "name":"webpack",
+    "des":"A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "tags":["工具","构建工具"]
+},{
+    "url":"http://facebook.github.io/immutable-js/",
+    "name":"immutable-js",
+    "des":"Immutable persistent data collections for Javascript which increase efficiency and simplicity.",
+    "tags":["工具"]
+},{
+    "name":"backbonejs",
+    "url":"http://backbonejs.org/",
+    "des":"Backbone.js是一个可以在前端组织MVC的javascript框架",
+    "tags":["MVC"]
+},{
+    "name":"angularjs",
+    "url":"http://angularjs.org/",
+    "des":"AngularJS是由Google创建的一种JS框架，使用它可以扩展应用程序中的HTML词汇，从而在web应用程序中使用HTML声明动态内容",
+    "tags":["MVC"]
+},{
+    "name":"emberjs",
+    "url":"http://emberjs.com/",
+    "des":"Ember.js同样是一个用于创建web应用的JavaScript MVC 框架",
+    "tags":["MVC"]
+},{
+    "name":"knockoutjs",
+    "url":"http://knockoutjs.com/",
+    "des":"Knockout 是个JavaScript library，帮助创建丰富的显示和编辑器UI，通过干净的底层数据模型，你可以在任何时候动态更新UI的选择部分",
+    "tags":["MVC"]
+},{
+    "name":"Vue.js",
+    "url":"http://vuejs.org.cn/",
+    "des":"数据驱动的组件，为现代化的 Web 界面而生",
+    "tags":["MVC","vue"]
+},{
+    "name":"Avalonjs",
+    "url":"http://avalonjs.github.io/",
+    "des":"迷你简单易用的MVVM框架。",
+    "tags":["MVC","MVC"]
+},{
+    "name":"commonjs",
+    "url":"http://www.commonjs.org/",
+    "des":"",
+    "tags":["模块化"]
+},{
+    "name":"seajs",
+    "url":"http://seajs.org/docs/",
+    "des":"",
+    "tags":["模块化"]
+},{
+    "name":"requirejs",
+    "url":"http://requirejs.org/",
+    "des":"",
+    "tags":["模块化"]
+},{
+    "name":"nodejs",
+    "url":"http://nodejs.org/",
+    "des":"",
+    "tags":["nodejs","官网"]
+},{
+    "name":"curl.js",
+    "url":"https://github.com/cujojs/curl",
+    "des":"",
+    "tags":["模块化"]
+},{
+    "name":"validator.js",
+    "url":"http://jaywcjlove.github.io/validator.js",
+    "github":"https://github.com/jaywcjlove/validator.js",
+    "des":"轻量级的JavaScript表单验证，字符串验证。没有依赖，支持UMD，~3kb。",
+    "tags":["js"]
+},{
+    "name":"Hotkeys",
+    "url":"http://jaywcjlove.github.io/hotkeys",
+    "github":"https://github.com/jaywcjlove/hotkeys",
+    "des":"这是一个强健的 Javascript 库用于捕获键盘输入和输入的组合键，它没有依赖，压缩只有只有(~3kb)。",
+    "tags":["js"]
+},{
+    "name":"translater.js",
+    "url":"http://jaywcjlove.github.io/translater.js",
+    "github":"https://github.com/jaywcjlove/translater.js",
+    "des":"这是一个利用HTML注释的页面翻译解决方案。对于少量的静态页面，这种解决方案显得更简单。它没有依赖，压缩只有只有(~2kb)。",
+    "tags":["js"]
 },{
     "name":"前端收藏夹",
     "url":"http://collect.w3ctrain.com/",
@@ -79,6 +177,16 @@
     "des":"前端网（W3Cfuns），人气爆棚的知识分享专业社区，优秀WEB前端开发工程师聚集地，提供面向前端工程师综合性服务的一站式服务平台！前端未来，我们打造！",
     "tags":["社区"]
 },{
+    "name":"w3ctech",
+    "url":"http://w3ctech.com/",
+    "des":"web标准化交流会",
+    "tags":["社区"]
+},{
+    "name":"F2E - 前端技术社区",
+    "url":"http://f2e.im/",
+    "des":"前端技术社区，分享讨论。",
+    "tags":["社区"]
+},{
     "name":"前端开发css88",
     "url":"http://www.css88.com/",
     "des":"专注前端开发，关注用户体验",
@@ -95,7 +203,72 @@
     "des":"Bootstrap是Twitter推出的一个用于前端开发的开源工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。目前，Bootstrap最新版本为3.0 。Bootstrap中文网致力于为广大国内开发者提供详尽的中文文档、代码实例等，助力开发者掌握并使用这一框架。",
     "tags":["工具"]
 },{
-    "name":"SUI3 是一套基于 Bootstrap3 的全栈开发工具包，包含丰富的组件库，同时提供了完整的前端开发指导。",
+    "name":"FlatUI",
+    "url":"http://designmodo.github.io/Flat-UI/",
+    "des":"Flat UI是一套精美的扁平风格UI 工具包，基于 Twitter Bootstrap 实现",
+    "tags":["UI框架"]
+},{
+    "name":"pure",
+    "url":"http://purecss.io/",
+    "des":"Pure是来自雅虎的CSS框架，框架基于响应式设计，提供多种样式的组件，包括表格、表单、按钮、表、导航等",
+    "tags":["UI框架"]
+},{
+    "name":"MetroUI",
+    "url":"http://metroui.org.ua/",
+    "des":"MetroUI CSS 是一套实现了Windows8 Metro风格界面的CSS框架",
+    "tags":["UI框架"]
+},{
+    "name":"Maxmertkit",
+    "url":"http://www.maxmert.com/",
+    "des":"Maxmertkit是一个全新的前端框架，拥有类似boostrap的UI但是提供了不同的组件内容",
+    "tags":["UI框架"]
+},{
+    "name":"Semantic UI",
+    "url":"http://semantic-ui.com/",
+    "des":"语义化设计的前端框架，为攻城师而制作的可复用的开源前端框架",
+    "tags":["UI框架"]
+},{
+    "name":"cssReset",
+    "url":"http://www.cssreset.com/",
+    "des":"搜集了各种css reset解决方案",
+    "tags":["CSS资源"]
+},{
+    "name":"npm",
+    "url":"https://www.npmjs.com/",
+    "des":"NPM是JavaScript的软件包管理器。查找，共享和重用代码的包从成百上千的开发人员-并用强大的新方法组装起来。",
+    "tags":["npm"]
+},{
+    "url":"http://gulpjs.com/",
+    "name":"gulp",
+    "des":"简单易用的流式构建系统",
+    "tags":["工具","构建工具"]
+},{
+    "url":"http://gruntjs.com/",
+    "name":"grunt",
+    "des":"Grunt: JavaScript 任务执行器",
+    "tags":["工具","构建工具"]
+},{
+    "url":"http://fis.baidu.com",
+    "name":"百度Fis",
+    "des":"解决前端开发中自动化工具、性能优化、模块化框架、开发规范、代码部署、开发流程等问题。",
+    "tags":["工具","构建工具","百度"]
+},{
+    "url":"http://underscorejs.org/",
+    "name":"underscore",
+    "des":"JavaScript's utility _ belt",
+    "tags":["工具"]
+},{
+    "url":"http://modernizr.com/",
+    "name":"Modernizr",
+    "des":"Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.",
+    "tags":["工具"]
+},{
+    "name":"WebPPD",
+    "url":"http://www.webppd.com/",
+    "des":"axure产品原型设计，务实产品经理基本功",
+    "tags":["UX","互交设计"]
+},{
+    "name":"SUI3",
     "url":"http://sui3.taobao.org/",
     "des":"基于 Bootstrap3 的全栈开发工具包，包含丰富的组件库，同时提供了完整的前端开发指导。",
     "tags":["技术","app","应用","UI","框架","webapp"]
@@ -129,6 +302,11 @@
     "name":"江面飘雪",
     "url":"http://www.zhujunel.com/",
     "des":"前端学习资源",
+    "tags":["博客"]
+},{
+    "name":"小胡子哥",
+    "url":"http://www.barretlee.com/entry/",
+    "des":"",
     "tags":["博客"]
 },{
     "name":"jQuery API 中文在线手册",
@@ -189,6 +367,21 @@
     "des":"在线Keycode查询",
     "tags":["工具"]
 },{
+    "name": "Browsersync 中文网",
+    "url": "http://www.browsersync.cn/",
+    "des": "BrowserSync能让浏览器实时、快速响应您的文件（html、js、css、sass、less等等）的更改，BrowserSync支持多终端(PC、ipad、iphone、android等等)设备同时调试。无论您是前端还是后端工程师，使用它将提高您30%的工作效率。",
+    "tags": ["工具"]
+},{
+    "name":"动画手册 - CSS3动画参考  by Tencent ISUX | DMDC",
+    "url":"http://isux.tencent.com/css3/index.html",
+    "des":"这是腾讯团队出品的一个CSS3 动画样式参考手册，同时还配备了一个动画工具。",
+    "tags":["手册","css3"]
+},{
+    "name":"csscomb",
+    "url":"http://csscomb.com/",
+    "des":"css属性排序工具，可把写好的css按照margin、padding、width、border、background、color顺序排列",
+    "tags":["CSS3","CSS3在线生成"]
+},{
     "name":"Normalize.css",
     "url":"http://necolas.github.io/normalize.css/",
     "des":"Normalize是一个相对平和的css reset方案，注重通用的方案，保留有用的user agent 样式",
@@ -204,6 +397,26 @@
     "des":"CSS属性查询，可查到对应W3C规范",
     "tags":["CSS资源"]
 },{
+    "name":"LoadersCSS",
+    "url":"https://connoratherton.com/loaders",
+    "des":"用 CSS 技术实现 loading 动画； 补一句，想熟悉、理解 `keyframes、animation、transform、transition`的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:)",
+    "tags":["CSS"]
+},{
+    "name":"WeUI",
+    "url":"https://github.com/weui/weui",
+    "des":"一套同微信原生视觉体验一致的基础样式库 为微信 Web 开发量身设计，令用户的使用感知更加统一",
+    "tags":["CSS"]
+},{
+    "name":"PostCSS",
+    "url":"https://github.com/postcss/postcss",
+    "des":"PostCSS在以惊人的速度发展，而且越来越受人欢迎。越来越多的人开始在了解它，使用它。因为他们意识到，在项目中使用PostCSS让他们意识到了眼前一亮。",
+    "tags":["CSS"]
+},{
+    "name":"hamburgers",
+    "url":"https://jonsuh.com/hamburgers/",
+    "des":"简单的动画库，让 Click(or Tap) 变得美妙",
+    "tags":["CSS"]
+},{
     "name":"CSS3lib动画库",
     "url":"http://css3lib.alloyteam.com/",
     "des":"由腾讯AlloyTeam搜集和整理的CSS3动画库",
@@ -213,6 +426,11 @@
     "url":"http://css3clickchart.com/",
     "des":"可以查询到目前CSS3草案部分的相关属性",
     "tags":["CSS资源"]
+},{
+    "name":"在线CSS/JS压缩",
+    "url":"http://tool.css-js.com/",
+    "des":"CSS, JavaScript 压缩, 美化, 加密, 解密",
+    "tags":["JS加密","CSS加密"]
 },{
     "name":"ECMAScript 6入门",
     "url":"http://es6.ruanyifeng.com/",
@@ -254,6 +472,11 @@
     "des":"测试你的JavaScript，CSS，HTML或CoffeeScript的在线代码编辑器JSFiddle。",
     "tags":["工具","在线编辑器"]
 },{
+    "name":"JS-YAML",
+    "url":"http://nodeca.github.io/js-yaml/",
+    "des":"在线解析YAML，YAML转JSON工具。",
+    "tags":["工具"]
+},{
     "name":"tinypng",
     "url":"https://tinypng.com/",
     "des":"TinyPNG使用一种智能有损压缩技术（通过降低图片中的颜色数量，来减少存储图片所需要的数据）来降低PNG 图片的大小",
@@ -269,6 +492,26 @@
     "des":"Iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具",
     "tags":["图标"]
 },{
+    "name":"SubtlePatterns",
+    "url":"http://subtlepatterns.com/",
+    "des":"背景纹理，最上档次的无缝背景纹理下载站，木有之一",
+    "tags":["设计资源"]
+},{
+    "name":"UIQ.me",
+    "url":"http://uiq.me/",
+    "des":"UIQ 是设计问答互动社区。我们的目标是为所有设计师提供一个设计交流平台，通过问答和积分游戏形式解决各类设计疑问，成为设计界的百科全书！",
+    "tags":["社区","设计"]
+},{
+    "name":"CSS Design Awards",
+    "url":"http://www.cssdesignawards.com/",
+    "des":"展示世界上最好的网站，激励全球网页设计师",
+    "tags":["酷站推荐"]
+},{
+    "name":"Lost Type",
+    "url":"http://www.losttype.com/browse/",
+    "des":"推荐：字体都非常漂亮，展示方式悦目清新",
+    "tags":["字体"]
+},{
     "name":"网页模版巨人",
     "url":"http://store.templatemonster.com/?aff=uisdc",
     "des":"著名的网页模版库，借鉴和学习网页趋势的宝地",
@@ -278,5 +521,15 @@
     "url":"http://www.wix.com/",
     "des":"超赞！该站全球排名378！可以帮你免费定制网站",
     "tags":["网站模板"]
+},{
+    "name":"IDEA注册码",
+    "url":"http://blog.lanyus.com/",
+    "des":"IntelliJ IDEA是JetBrains公司的一款IDE",
+    "tags":["网站模板"]
+},{
+    "name":"GIF录屏神器",
+    "url":"http://weibo.com/1773655610/CqTYv5xOO",
+    "des":"推荐！这是一个小巧却强悍的GIF录屏神器",
+    "tags":["神器"]
 }]
 
