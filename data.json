@@ -134,6 +134,28 @@
     "des":"这是一个利用HTML注释的页面翻译解决方案。对于少量的静态页面，这种解决方案显得更简单。它没有依赖，压缩只有只有(~2kb)。",
     "tags":["js"]
 },{
+    "name":"cookie.js",
+    "url":"http://jaywcjlove.github.io/cookie.js",
+    "github":"https://github.com/jaywcjlove/cookie.js",
+    "des":"本地存储cookie的封装，提供简单的AIP 兼容IE6",
+    "tags":["js","cookie"]
+},{
+    "name":"store.js",
+    "url":"http://jaywcjlove.github.io/store.js",
+    "github":"https://github.com/jaywcjlove/store.js",
+    "des":"本地存储cookie的封装，提供简单的AIP 兼容IE6",
+    "tags":["js"]
+},{
+    "name":"HINT.css",
+    "url":"https://github.com/chinchang/hint.css",
+    "des":"一款非常小巧的提示框效果",
+    "tags":["CSS"]
+},{
+    "name":"Balloon.css",
+    "url":"http://kazzkiq.github.io/balloon.css/",
+    "des":"同上，一款非常小巧的提示框效果",
+    "tags":["CSS"]
+},{
     "name":"前端收藏夹",
     "url":"http://collect.w3ctrain.com/",
     "ico":"http://collect.w3ctrain.com/img/favicon.jpg",
@@ -160,11 +182,6 @@
     "url":"http://html-js.com/",
     "des":"前端乱炖，这里是最专业的前端知识平台，汇集国内大部分前端开发人员的前端花名册，最精彩的原创文章专栏，最专业的问答平台，最火热的话题频道，最丰富的线下线上活动。",
     "tags":["社区"]
-},{
-    "name":"Taobao FED | 淘宝前端团队",
-    "url":"http://taobaofed.org/",
-    "des":"淘宝前端团队（FED）用技术为体验提供无限可能",
-    "tags":["FED","阿里","淘宝","团队"]
 },{
     "name":"w3cplus",
     "url":"http://www.w3cplus.com/",
